@@ -20,7 +20,7 @@ defaults:
       
       
 author:
-  name   : "Bicicleta"
+  name   : "Contrataciones"
   avatar : "img/contrataciones.png"
   bio    : "Vocabulario para la representación de datos sobre el sistema de contratación pública."
   links:
