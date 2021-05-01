@@ -1,7 +1,7 @@
 main:
   - title: "README"
     url: "https://github.com/opencitydata/sector-publico-contratacion-publica/blob/master/README.md"
-  - title: "Ciudades Abiertas web"
-    url: "https://ciudadesabiertas.es/vocabularios/#Descripci%C3%B3n"
+  - title: "Open Data Cities"
+    url: "http://vocab.linkeddata.es/datosabiertos/"
   - title: "GitHub OpenCity"
     url: "https://github.com/opencitydata/"
