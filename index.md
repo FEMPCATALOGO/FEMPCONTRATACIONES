@@ -20,9 +20,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Sector público | En proceso | *[Página web](http://vocab.ciudadesabiertas.es/def/transporte/bicicleta-publica/doc/index-es.html)* *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)*   |    | Repositorio para el desarrollo del vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou. | 26/03/19 | --- | rdf+xml   html   turtle | CC-BY  | en   |
+| Dominio |  Estado  |   Links   |    Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
+| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | 
+| Sector público | En proceso |  *[Repositorio](https://github.com/opencitydata/sector-publico-contratacion-publica)*   |   Repositorio para el desarrollo del vocabulario sobre contratación pública basado en Open Contracting Data Standard. Este repositorio se basa en la ontología OCDS realizada en el contexto del proyecto TheyBuyForYou. | 26/03/19 | --- | rdf+xml   html   turtle | CC-BY  | en   |
  
  
   
